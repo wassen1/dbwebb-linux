@@ -1,0 +1,27 @@
+Använd Rasberry Pi baker på mac
+ladda ner raspbian stretch från www.raspberrypi.org
+
+Byta namn på server:
+$ sudo nano /etc/hostname
+
+Servern heter:
+mypi
+
+Stänga av wifi på raspberrypi:
+$ sudo rfkill list all
+$ sudo rfkill block 0
+
+Hitta ip:
+$ ifconfig
+
+eth0/inet (wlan)
+
+XXX.XXX.X.XX
+
+Enable SSH:
+sudo raspi-config/Interfacing Options/enabled/SSH/OK
+
+Logga in med SSH:
+ssh XX@XXX.XXX.X.XX
+
+$ uname -a

@@ -1,0 +1,53 @@
+{
+    "details": "Generated for fraa18 at 2019-02-08 10:56:35.",
+    "key": "dd8a5147a4528feb7768c0ee0a847cda",
+    "summary": {
+        "questions": 11,
+        "points": 15,
+        "pass": 9,
+        "passdistinct": 15
+    },
+    "points": {
+        "1.1": 1,
+        "1.2": 1,
+        "1.3": 1,
+        "1.4": 1,
+        "1.5": 1,
+        "2.1": 1,
+        "2.2": 1,
+        "3.1": 1,
+        "3.2": 1,
+        "4.1": 3,
+        "4.2": 3
+    },
+    "answers": {
+        "1.1": 48,
+        "1.2": 2,
+        "1.3": "The meaning of life is 42",
+        "1.4": false,
+        "1.5": false,
+        "2.1": [
+            2,
+            19,
+            12
+        ],
+        "2.2": [
+            2,
+            19,
+            12,
+            21
+        ],
+        "3.1": [
+            "Jim Lovell was on the apollo 13",
+            "Jack Swigert was on the apollo 13",
+            "Fred Haise was on the apollo 13"
+        ],
+        "3.2": [
+            "Jim Lovell was not on the apollo 12",
+            "Jack Swigert was not on the apollo 12",
+            "Fred Haise was not on the apollo 12"
+        ],
+        "4.1": 87,
+        "4.2": 70
+    }
+}

@@ -1,0 +1,2 @@
+rsync -av -e "ssh -p <port>" me.html <user>@<ip>:~/vhosts/me.linux.se/htdocs/index.html
+lynx me.linux.se
